@@ -1,0 +1,14 @@
+/Users/nagarro/Desktop/TabeedDemo/TabeedDemo/bin/Debug/netstandard2.0/TabeedDemo.deps.json
+/Users/nagarro/Desktop/TabeedDemo/TabeedDemo/bin/Debug/netstandard2.0/TabeedDemo.dll
+/Users/nagarro/Desktop/TabeedDemo/TabeedDemo/bin/Debug/netstandard2.0/TabeedDemo.pdb
+/Users/nagarro/Desktop/TabeedDemo/TabeedDemo/obj/Debug/netstandard2.0/TabeedDemo.csprojAssemblyReference.cache
+/Users/nagarro/Desktop/TabeedDemo/TabeedDemo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/nagarro/Desktop/TabeedDemo/TabeedDemo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/nagarro/Desktop/TabeedDemo/TabeedDemo/obj/Debug/netstandard2.0/Page1.xaml.g.cs
+/Users/nagarro/Desktop/TabeedDemo/TabeedDemo/obj/Debug/netstandard2.0/Page2.xaml.g.cs
+/Users/nagarro/Desktop/TabeedDemo/TabeedDemo/obj/Debug/netstandard2.0/TabeedDemo.csproj.CoreCompileInputs.cache
+/Users/nagarro/Desktop/TabeedDemo/TabeedDemo/obj/Debug/netstandard2.0/TabeedDemo.AssemblyInfoInputs.cache
+/Users/nagarro/Desktop/TabeedDemo/TabeedDemo/obj/Debug/netstandard2.0/TabeedDemo.AssemblyInfo.cs
+/Users/nagarro/Desktop/TabeedDemo/TabeedDemo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/nagarro/Desktop/TabeedDemo/TabeedDemo/obj/Debug/netstandard2.0/TabeedDemo.dll
+/Users/nagarro/Desktop/TabeedDemo/TabeedDemo/obj/Debug/netstandard2.0/TabeedDemo.pdb

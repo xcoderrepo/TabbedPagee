@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{E7CD652E-F5A3-43E6-8C19-594E3DF21C29}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TabeedDemo/App.xaml.cs">
+    <Files>
+      <File FileName="TabeedDemo/MainPage.xaml.cs" Line="17" Column="12" />
+      <File FileName="TabeedDemo/MainPage.xaml" Line="13" Column="23" />
+      <File FileName="TabeedDemo.iOS/AppDelegate.cs" Line="32" Column="1" />
+      <File FileName="TabeedDemo/App.xaml.cs" Line="19" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TabeedDemo" expanded="True">
+            <Node name="TabeedDemo" expanded="True">
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="Page1.xaml" expanded="True" />
+            </Node>
+            <Node name="TabeedDemo.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TabeedDemo.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TabeedDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0AFF51DD-F542-46F6-9F33-449EFD102753" />
+</Properties>
